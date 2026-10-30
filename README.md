@@ -1,20 +1,20 @@
 <div align="center">
-  <!-- Dynamic Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230052D4&custom_color_2=%234364F7&custom_color_3=%236FB1FC&height=220&section=header&text=Manish%20Maiti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Frontend%20%26%20Full-Stack%20Developer%20%7C%203D%20Web%20Craftsman&descAlignY=62&descAlign=50" alt="Manish Maiti Header" width="100%" />
+  <!-- Dynamic Wave Header Banner (Tested & Working) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:6FB1FC&height=220&section=header&text=Manish%20Maiti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Creative%20Frontend%20%26%20Full-Stack%20Developer%20%7C%203D%20Web%20Craftsman&descAlignY=62&descAlign=50" alt="Manish Maiti Header" width="100%" />
 
   <!-- Social, Portfolio & Contact Badges -->
   <p align="center">
     <a href="https://manish-maiti-portfolio.onrender.com" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Live_Portfolio-0052D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/manish-maiti" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Manish-51" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:maitimanish1924@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -29,6 +29,24 @@
     📍 <b>India</b>
   </p>
 </div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manish-51/Manish-51/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manish-51/Manish-51/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Manish-51/Manish-51/output/snake.svg" width="100%" />
+</picture>
+
+### Manish Maiti
+
+> *Creative Frontend & Full-Stack Developer | 3D Web Craftsman*
+
+The snake above is built fresh every day — it's eating real commits, not props.
+
+— [manish-maiti-portfolio.onrender.com](https://manish-maiti-portfolio.onrender.com) · [LinkedIn](https://www.linkedin.com/in/manish-maiti) · [Email](mailto:maitimanish1924@gmail.com)
 
 ---
 
@@ -101,7 +119,6 @@ I am always keen to discuss new opportunities, collaborate on innovative project
 - 💼 **LinkedIn**: [linkedin.com/in/manish-maiti](https://www.linkedin.com/in/manish-maiti)
 - 🐙 **GitHub**: [@Manish-51](https://github.com/Manish-51)
 - 📬 **Email**: [maitimanish1924@gmail.com](mailto:maitimanish1924@gmail.com)
-
 
 <div align="center">
   <sub>Designed with ❤️ by Manish Maiti</sub>
